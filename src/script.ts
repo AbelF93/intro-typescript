@@ -1,4 +1,4 @@
-(function() {
+/* (function() {
     document.getElementById('guess-form').addEventListener("submit", compareUserGuess);
 
     function compareUserGuess (event) {
@@ -23,4 +23,7 @@
     function getRandomArbitrary(min, max) {
         return Math.round(Math.random() * (max - min) + min);
     }
-})();
+})(); */
+
+let username = "Abel";
+console.log(username);
